@@ -12,10 +12,6 @@ My name is Matthew and I'm a Full Stack Web Developer with 5+ years of industry 
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" alt="Godot" title="Godot"/>
 </div>
 <details>
   <summary>Text List</summary>
@@ -28,10 +24,6 @@ My name is Matthew and I'm a Full Stack Web Developer with 5+ years of industry 
 		<li>Node.js</li>
 		<li>C#</li>
 		<li>.NET Core</li>
-		<li>MSSQL</li>
-		<li>React</li>
-		<li>Next.js</li>
-		<li>Express</li>
-		<li>Godot</li>
+		<li>MSSQL</li
 	</ul>
 </details>
